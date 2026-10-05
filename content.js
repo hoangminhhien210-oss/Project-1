@@ -11,8 +11,8 @@
 window.SITE = {
   /* ---------- 1. THÔNG TIN CÁ NHÂN ---------- */
   owner: {
-    name: "Phan Thi Anh Dao",
-    shortName: "Anh Dao",
+    name: "Warren buffet",
+    shortName: "Wall street",
     initials: "AD",
     photo: "",                                   // TODO: "assets/img/dao.jpg"
     headline: "Commercial & Financial Analysis",
@@ -39,15 +39,15 @@ window.SITE = {
     experience: [
       // TODO: kiểm tra & bổ sung thời gian, mô tả
       { period: "Present", title: "Distributor Manager — Distributor Development", org: "Multinational FMCG company, Ho Chi Minh City", text: "Distributor performance, sales forecasting, allocation and cross-border sales SOPs; built Excel/VBA tools to automate allocation and forecast updates." },
-      { period: "In progress", title: "Finance studies", org: "RMIT University Vietnam", text: "Coursework in money & debt markets, credit risk and corporate financial analysis." },
+      { period: "In progress", title: "Finance studies", org: "International School of Business", text: "Coursework in money & debt markets, credit risk and corporate financial analysis." },
     ],
   },
 
   /* ---------- 2. THÀNH VIÊN NHÓM ---------- */
   team: [
     {
-      name: "Anh Dao",                // tên hiển thị
-      fullName: "Phan Thi Anh Dao",
+      name: "Hiển",                // tên hiển thị
+      fullName: "Hoàng Minh Hiển",
       role: "Report integration & editing", // TODO: kiểm tra lại vai trò của bạn
       photo: "",
       contributions: ["Final report structure & design", "Content moderation", "Cross-checking all figures"],
